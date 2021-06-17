@@ -1,0 +1,17 @@
+~ NOTAS:
+Avaliação Integrada          - 1,0
+Trabalho JavaScript          - 1,0
+NoSQL + Node                 - 2,0
+Implementação REACT (Livros) - 1,0
+Implementação site (React)   - 3,0
+Exercícios sala de aula      - 2,0
+
+~ IMPLMENTAÇÃO LIVROS - REACT:
+1 - Listar livros
+2 - Cadastrar livros
+3 - Cadastro realizando MATERIAL-UI
+4 - Cadastro de usuário c/ MATERIAL-UI
+5 - Tela de login
+  -> Utilizando os dados do usuário cadastrado
+  -> Se usuário e senha começa, então direciona p/ 'tela de menu', senão exibir mensagem para usuário
+
